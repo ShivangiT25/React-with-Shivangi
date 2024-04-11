@@ -1,0 +1,126 @@
+.allheader{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    width:100%;
+    height: 100%;
+    /* align-items: center; */
+}
+.chatterly{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+}
+
+.material-symbols-outlined{
+    color: blue;
+}
+.user{
+    display: flex;
+    /* align-items: center; */
+}
+ .shiv{
+    height: 45px;
+    width:45px;
+    border-radius: 50%;
+    /* margin-right: 2px; */
+    /* align-items: center; */
+ }
+#shivangi{
+    font-size: small;
+    font-weight: bolder;
+    height: 20px;
+    border-color: aliceblue;
+    margin-top: 17px;
+    /* align-items: center; */
+    border-radius: 50px;
+    border-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+}
+.hr1{
+    border:0.5px solid rgb(228, 224, 224);
+}
+.header{
+    display:flex;
+    /* border-color: black; */
+    /* border: 50px; */
+    justify-content: center;
+
+    
+}
+
+.filter{
+    font-weight: bold;
+    padding:3px;
+    margin-left:10px;
+    margin-right: 20px;
+   margin-top: 18px;
+}
+
+.blank{
+    height:50px;
+    border:0.5px solid rgb(228, 224, 224);
+}
+
+.create h4{
+    margin-left: 20px;
+    /* margin:5px; */
+    width:150px;
+    color:rgb(161, 156, 156);
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.create select{
+    margin-left: 20px;
+    width:150px;
+    padding:5px;
+    border-radius: 30px;
+    background-color:rgb(241, 237, 237);
+    /* padding-left:50px;
+    padding-right:50px; */
+    align-items: normal;
+    border-color:rgb(241, 237, 237);
+    color:rgb(161, 156, 156);
+}
+
+.dating h4{
+    margin-left: 30px;
+    width:150px;
+    color:rgb(161, 156, 156);
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.dating select{
+    margin-left: 30px;
+    width: 150px;
+    padding:5px;
+    border-radius: 30px;
+    /* padding-left:50px;
+    padding-right:50px; */
+    border-color:rgb(241, 237, 237);
+    background-color:rgb(241, 237, 237);
+    color:rgb(161, 156, 156);
+}
+.search h4{
+    margin-left: 600px;
+    width:150px;
+    /* display: flex;
+    align-items: end; */
+    color:rgb(161, 156, 156);
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.search input{
+    margin-left: 600px;
+    width: 200px;
+    padding:5px;
+    border-radius: 30px;
+    /* margin-left: 500px;
+    padding-left:50px;
+    padding-right:50px; */
+    border-color:rgb(241, 237, 237);
+    color:rgb(161, 156, 156);
+    background-color:rgb(241, 237, 237);
+    
+}

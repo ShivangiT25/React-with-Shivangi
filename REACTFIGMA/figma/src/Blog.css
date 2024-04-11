@@ -1,0 +1,19 @@
+.mainmain h2{
+    background-color: rgb(245, 248, 248);
+    /* font-weight: bolder; */
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+}
+.mainfinal{
+        background-color: rgb(245, 248, 248);
+        height:1400px;
+        width:1250px;
+        justify-content: space-around;
+        padding:20px;
+        /* padding-right: 25px; */
+        /* margin-left: 30px; */
+        border-radius: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        /* margin-left: 0px; */
+        /* border-radius: 20px; */
+}

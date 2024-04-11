@@ -1,0 +1,66 @@
+.footer{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 1px;
+}
+
+.blog-text{
+    color:rgb(216, 7, 7);
+    margin-left:4px;
+    margin-bottom: 1px;
+}
+
+.training-blog{
+    display:flex;
+    margin-left: 10px;
+}
+.training p{
+    width:400px;
+    color:rgb(121, 115, 115);
+    margin-top: 1px;
+    line-height: 25px;
+}
+.blank3{
+    width:auto;
+    border:0.5px solid rgb(228, 224, 224);
+}
+.category h4{
+    margin-left: 40px;
+}
+.list {
+    color:rgb(121, 115, 115);
+    list-style-type: none;
+    font-size: small;
+    line-height: 25px;
+    /* margin-right: 200px; */
+    
+}
+.details{
+    color:rgb(121, 115, 115);
+    list-style-type: none;
+    font-size: small;
+    line-height: 25px;
+}
+
+.touch h4{
+    margin-left: 40px;
+}
+.lastline{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(121, 115, 115);
+    font-size: small;
+    margin-top: 5px;
+    position: static;
+}
+
+.follow{
+    margin-right: 90px;
+}
+.icon-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 20px;
+    font-size: 25px;
+}
